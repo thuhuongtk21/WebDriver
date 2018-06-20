@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Lib/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="D:/Document/Automation/Install/Connect to DB/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="Lib/mysql-connector-java-3.1.14-bin-g.jar.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

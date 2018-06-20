@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testNG.CL01_Annotations"/>
+      <input>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite --><!--comment-->
